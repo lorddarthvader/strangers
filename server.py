@@ -3,7 +3,7 @@
 """
 coded by lorddarthvader
 to-do : 
-1) find a better way to 'find_pair', 'pair_available' and 'allocate_pair' [for loop could make the server slow :c]
+1) find a better way to do 'find_pair', 'pair_available' and 'allocate_pair' [for loop could make the server slow :c]
 """
 
 import socket, select
