@@ -1,10 +1,9 @@
 #!/usr/bin/python
 
 """
-coded by lorddarthvader for project 'stranger'
-todo : 
+coded by lorddarthvader
+to-do : 
 1) find a better way to 'find_pair', 'pair_available' and 'allocate_pair' [for loop could make the server slow :c]
-2) make a 'report' function
 """
 
 import socket, select
